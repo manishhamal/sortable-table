@@ -1,0 +1,8 @@
+table {
+  @apply border w-full rounded-sm border-collapse;
+}
+
+th,
+td {
+  @apply border;
+}
